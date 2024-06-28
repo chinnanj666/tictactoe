@@ -14,7 +14,7 @@ Play the Tic-Tac-Toe game against a computer.
 
 ## Installation
 
-1. `git clone 
+1. `git clone https://github.com/chinnanj666/tictactoe.git
 
 2. `cd tic-tac-toe`
 
