@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-Play the Tic-Tac-Toe game against a computer.
+Play the Tic-Tac-Toe game against a computer. built using mini max algorithm 
 
 ![Alt img](https://images.ctfassets.net/zlsyc9paq6sa/3HTYWmjkvJK2Tlgeublqdb/b4068de81576fb6998400d273cd14c47/1627997372_x.gif)
 
@@ -11,6 +11,13 @@ Play the Tic-Tac-Toe game against a computer.
 2. Winner detection
 
 3. Reset Functionality
+4. Difficult level : human vs Ai 
+     Easy
+     Medium
+     Hard
+     friends mode(play with your friend)
+5. Responsive UI/Ux for both mobile as well as web.
+6. best animation.
 
 ## Installation
 
